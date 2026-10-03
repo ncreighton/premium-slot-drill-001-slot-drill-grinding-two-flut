@@ -1,0 +1,2 @@
+# premium-slot-drill-001-slot-drill-grinding-two-flut
+Tired of guessing which slot drill needs regrinding or losing track of your two-flute end mill geometry?  This Notion template turns your tool crib into a precision studio, logging every grind, flute condition, and usage cycle so you never waste material on a dull bit. It's the only system that combines slot drill inventory with detailed grinding h
